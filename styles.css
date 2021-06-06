@@ -1,0 +1,46 @@
+body{
+    background:rgb(224, 224, 224); 
+    margin: 0;
+    
+}
+
+header{
+    
+    background: white;
+    margin: auto;
+    padding: 3px;
+    margin-bottom: 15px;
+    width: 100%;
+    text-align: center;
+}
+
+
+
+div.container{
+    background: white;
+    margin: auto;
+    width: 600px;
+    position: relative;
+    border-radius: 1%;
+}
+
+h2 , p{
+    padding: 10px; 
+        
+}
+div.post-header{
+    
+    display: inline-block;
+    position: left;
+    
+}
+div.post-date{
+    position: relative;
+    left: 250px;
+    display: inline-block;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
